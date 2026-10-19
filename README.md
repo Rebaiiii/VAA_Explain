@@ -35,6 +35,6 @@ DISAGREE: The proposal would require Britain to adopt a common external tariff o
 
 1. Open `VAA_Creator_Demo.ipynb` in Jupyter Notebook, VS Code, or Google Colab. The current generation setup requires a compatible NVIDIA GPU.
 2. Replace the placeholders in the example files with your source text, references, and VAA statements.
-3. Keep the three text files in the notebook’s working folder.
-4. Run the cells in order to install dependencies, retrieve relevant passages, and generate explanations.
+3. Keep the three text files in the same working folder.
+4. If you are using Google Colab, run the first code cell to install dependencies. Otherwise, install them using `python -m pip install -r requirements.txt` and skip the first cell. Then run the remaining cells in order.
 5. Review the drafts and run the final cell to export them as `vaa_drafts.json`.
