@@ -1,0 +1,7 @@
+##This is the example format of the 
+
+[S01] "Some Paragraphs". Replace this paragraph with text from your first source.
+
+[S01] "Another Paragraphs". Add another paragraph from the same source here.
+
+[S02] "Paragraphs from Another Source". Replace this paragraph with text from your second source.

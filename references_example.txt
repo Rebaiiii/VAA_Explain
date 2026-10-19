@@ -1,0 +1,11 @@
+[S01]
+Title: First source title
+Publisher: Publisher name
+Date: Publication date
+URL: https://example.com/source-one
+
+[S02]
+Title: Second source title
+Publisher: Publisher name
+Date: Publication date
+URL: https://example.com/source-two

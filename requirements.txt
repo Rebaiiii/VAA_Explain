@@ -1,0 +1,7 @@
+# Notebook dependencies. Generation requires a compatible NVIDIA CUDA GPU.
+torch>=2.6,<3
+sentence-transformers==5.1.1
+transformers==4.57.6
+accelerate==1.14.0
+bitsandbytes==0.50.2
+notebook>=7,<8
